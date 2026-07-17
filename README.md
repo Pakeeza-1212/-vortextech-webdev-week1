@@ -55,7 +55,7 @@ git clone https://github.com/Pakeeza-1212/-vortextech-webdev-week1
 Open the project folder
 
 ```bash
-cd portfolio
+cd vortextech-webdev-week1
 ```
 
 Open **index.html** in your browser.
